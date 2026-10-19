@@ -23,6 +23,7 @@ a mini project of a company selling smart devices
 7. WiFi SmartLight (a child of SmartLight)
 8. WiFi SmartFan (a child of SmartFan)
 9. WiFiConnection (an interface for all classes that connect a WiFi)
+   
    ---
    ## Notes
    - note that we made a hierarchy of inheritance
